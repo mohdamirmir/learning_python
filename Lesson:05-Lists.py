@@ -1,4 +1,4 @@
-#Lesson:04 - Lists
+#Lesson:05 - Lists
 
 '''
 list is a collection of values. It can be of of same or different types..
@@ -47,5 +47,6 @@ print(max(nums))
 
 print(sum(nums))
 
+#sorting a list
 nums.sort()
 print(nums)

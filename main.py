@@ -47,5 +47,6 @@ print(max(nums))
 
 print(sum(nums))
 
+#sorting a list
 nums.sort()
 print(nums)
