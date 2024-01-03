@@ -17,6 +17,9 @@ values = [36,'aamir',45.78]
 mil = [nums,names]
 print(mil)
 
+
+nums.append(99)
+print(nums)
 #listname.insert(index,value)
 nums.insert(2,77)
 print(nums)
