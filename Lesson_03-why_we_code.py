@@ -24,3 +24,4 @@ print('aamir' * 10 )
 print('aamir is my name \ni like to play cricket')
 print('c:\\docs\navin')
 print(r'c:\\docs\navin') # this is called a raw string
+print(f'c:\\docs\navin') # this is called a formatted string

@@ -21,5 +21,6 @@ print(z[3:])
 print(z[:6])
 #note strings are immutable
 #z[0] = 'R' # this wont be allowed for strings
+
 my_name ="mohd aamir mir"
 print(len(my_name))
