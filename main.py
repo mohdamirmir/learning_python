@@ -1,3 +1,5 @@
-#Lesson:37 - Decorators
+#Lesson:40 - special variable __name__
 '''
+
 ''' 
+
