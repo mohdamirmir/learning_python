@@ -1,5 +1,4 @@
-#Lesson:40 - special variable __name__
+#Lesson:46 - polymorphism
 '''
-
+one thing with multiple forms 
 ''' 
-
