@@ -7,7 +7,7 @@ from math import floor
 num = int(input("Enter the number: "))
 
 if num < 2:
-    print(num,"is not primeprime")
+    print(num,"is not prime")
 else:
     for i in range(3, floor(num/2) + 1):
         if num % i == 0:
