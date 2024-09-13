@@ -12,9 +12,9 @@ Relational operators
 
 Logical operators
 and or and not
-for and both conditions should satisfy to be True else it is false
-for or one of the  conditions should satisfy to be True else it is false
-not is opposite or result(True or False)
+for "and" both conditions should satisfy to be True else it is false
+for "or" one of the  conditions should satisfy to be True else it is false
+"not" is opposite of result(True or False)
 '''
 
 
