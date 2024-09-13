@@ -52,3 +52,6 @@ print(sum(nums))
 
 nums.sort()
 print(nums)
+
+#length of nums
+print(len(nums))
