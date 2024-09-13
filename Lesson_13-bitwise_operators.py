@@ -3,7 +3,7 @@
 ~ (tilde) - complement
 & AND
 | OR
-! NoT
+! NOT
 ^ XOR
 '''
 
